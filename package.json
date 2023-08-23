@@ -1,0 +1,22 @@
+{
+  "name": "galaxia-oscura",
+  "displayName": "Galaxia Oscura",
+  "description": "A dark Visual Studio theme with neon-coloured details",
+  "version": "1.0.0",
+  "publisher": "zpcqf3etmpkdiqzrgwcffwxa3ggdi6wydziocsdrlwystpnerrvq",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Galaxia Oscura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Galaxia Oscura-color-theme.json"
+      }
+    ]
+  }
+}
