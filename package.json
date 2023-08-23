@@ -3,13 +3,23 @@
   "displayName": "Galaxia Oscura",
   "description": "A dark Visual Studio theme with neon-coloured details",
   "version": "1.0.0",
-  "publisher": "zpcqf3etmpkdiqzrgwcffwxa3ggdi6wydziocsdrlwystpnerrvq",
+  "publisher": "BrenoLasserre",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lasserrebreno/GalaxiaOscuraTheme"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
   "categories": [
     "Themes"
   ],
+"keywords": [
+  "dark theme",
+  "galaxia oscura theme",
+  "galaxia oscura",
+  "breno lasserre"
+],
   "contributes": {
     "themes": [
       {
