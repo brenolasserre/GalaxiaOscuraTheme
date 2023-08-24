@@ -4,7 +4,7 @@
 <br>
 
 ## Screenshot<br>
-![Screenshot - Galaxia Oscura](https://raw.githubusercontent.com/lasserrebreno/GalaxiaOscuraTheme/master/img/screenshot.jpg)
+![Screenshot - Galaxia Oscura](https://raw.githubusercontent.com/lasserrebreno/GalaxiaOscuraTheme/master/img/screenshot.png)
 
 ## Color Palette
 
